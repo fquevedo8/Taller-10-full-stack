@@ -5,6 +5,9 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Punto 1: </h2>
+<h3>1 - Calculadora</h3>
+<img src="./public/images/punto-1.png"
+alt="punto-1">
 <h2>Punto 2: </h2>
 <h2>Punto 3: </h2>
 <h2>Punto 4: </h2>

@@ -10,7 +10,7 @@
 
   $firstNumber = intval($_POST["first_number"]);
   $secondNumber = intval($_POST["second_number"]);
-  $operationType = intval($_POST["operation_type"]);
+  $operationType = ($_POST["operation_type"]);
 
   switch ($operationType) {
     case '1':

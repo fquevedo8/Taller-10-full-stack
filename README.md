@@ -9,6 +9,9 @@
 <img src="./public/images/punto-1.png"
 alt="punto-1">
 <h2>Punto 2: </h2>
+<h3>2 - Edad</h3>
+<img src="./public/images/punto-2.png"
+alt="punto-2">
 <h2>Punto 3: </h2>
 <h3>3 - Registro de datos</h3>
 <img src="./public/images/punto-3.png"

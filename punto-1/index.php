@@ -13,9 +13,9 @@
     <?php include "./view/components/form.php" ?>
     <?php include "./view/components/result.php" ?>
     <?php echo "Seleccione el tipo de operación, siendo:" ?>
-    <?php echo "1 - SUMAR" ?>
-    <?php echo "2 - RESTAR" ?>
-    <?php echo "3 - MULTIPLICAR" ?>
-    <?php echo "4 - DIVIDIR" ?>
+    <?php echo "1. SUMAR" ?>
+    <?php echo "2. RESTAR" ?>
+    <?php echo "3. MULTIPLICAR" ?>
+    <?php echo "4. DIVIDIR" ?>
 </body>
 </html>

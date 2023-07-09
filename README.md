@@ -17,6 +17,9 @@ alt="punto-2">
 <img src="./public/images/punto-3.png"
 alt="punto-3">
 <h2>Punto 4: </h2>
+<h3>3 - Calculo de edad</h3>
+<img src="./public/images/punto-4.png"
+alt="punto-4">
 <h2>Punto 5-6-7: </h2>
 <h3>5 - Base de datos</h3>
 <img src="./public/images/mysql.png"

@@ -11,7 +11,7 @@
     <h1>Punto 1 - Calculadora</h1>
     <hr>
     <?php include "./view/components/form.php" ?>
-    <?php include "./view/components/result.php"; ?>
+    <?php include "./view/components/result.php" ?>
     <?php echo "Seleccione el tipo de operación, siendo:" ?>
     <?php echo "1 - SUMAR" ?>
     <?php echo "2 - RESTAR" ?>
